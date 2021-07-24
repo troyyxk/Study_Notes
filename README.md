@@ -12,6 +12,15 @@ Link:
 https://axiom.utm.utoronto.ca/~csc409/20f/index.shtml
 ```
 
+## [6.824 Distributed System - MIT](https://github.com/troyyxk/study_notes/tree/main/6.824)
+
+Learn the distributed system
+
+Link
+```
+http://nil.csail.mit.edu/6.824/2020/schedule.html
+```
+
 # Certificates:
 
 ## [AWS Certified Cloud Practitioner](https://github.com/troyyxk/study_notes/tree/main/AWS_Cloud_Practitioner)
