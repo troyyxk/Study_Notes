@@ -1,0 +1,24 @@
+EBS Volume
+    network drive
+        Elastic Block Storage Volume
+        attach to instance while running
+        can persist data even after terminated
+    locked to a availibility zone
+        a geographical location zone
+    have a provisioned capacity
+    can have several EBS attach to 1 EC2 instace
+    can be unattached
+
+EBS Snapshot
+    a backup (snapshot) of the EBS volume
+    can copy accross AZ or region
+
+AMI (Amazon Machine Image)
+    customization of an EC2 instance
+    build for specific region
+        can be copied to other regions
+
+EC2 Storage Machine
+    high performance hardware disk
+    Better I/O
+    User's responsiblity
